@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: etl_utils
+Version: 0.1
+Summary: A package with ETL helper functions for data cleaning and processing.
+Author: Luisa Bolsoni Sousa
+Author-email: bolsoni.luisa@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: unidecode
